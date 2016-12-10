@@ -12,13 +12,12 @@ This is a simple text editor and word analyzer. I've implemented it using Java a
 
 -Analyzer panel has some word analyzing features, such as:
 
-  -Total word count
+  1.Total word count
   
-  -Word length percentages (e.g. Percentage of 1-letter words, 2-letter-words,...)
+  2.Word length percentages (e.g. Percentage of 1-letter words, 2-letter-words,...)
   
-  -Average length of words
-  
-  -Number of occurences of a specific word in the file
+  3.Average length of words
+  4.Number of occurences of a specific word in the file
 
 -Added a menubar which has functionality of opening, saving, exiting and making a new file
 
