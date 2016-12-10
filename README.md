@@ -6,6 +6,7 @@ This is a simple text editor and word analyzer. I've implemented it using Java a
 -Used BorderLayout for the frame and GridBagLayout for the analyzar panel
 -Used the Nimbus Look and Feel to draw the user interface (UI)
 -Editor panel lets the user open, edit and save any text file
+
 -Analyzer panel has some word analyzing features, such as:
   -Total word count
   -Word length percentages (e.g. Percentage of 1-letter words, 2-letter-words,...)
